@@ -24,8 +24,8 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: '217heidai'               #可选参数: 规则名称，如无将使用 path 作为名称
-        path: 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
+      - name: 'afwfv'               #可选参数: 规则名称，如无将使用 path 作为名称
+        path: 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
         type: easylist                       #可选参数: 规则类型：easylist (默认)、dnsmasq、clash、smartdns、hosts
 
       - name: 'anti-AD'
