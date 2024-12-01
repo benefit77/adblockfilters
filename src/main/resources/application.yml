@@ -28,6 +28,18 @@ application:
         path: 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
         type: easylist                       #可选参数: 规则类型：easylist (默认)、dnsmasq、clash、smartdns、hosts
 
+      - name: 'AWAvenue'
+        path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
+        type: easylist
+        
+      - name: 'damengzhu'
+        path: 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt'
+        type: easylist
+        
+      - name: 'GOODBYEADS'
+        path: 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt'
+        type: easylist
+        
       - name: 'NoAppDownload'
         path: 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/refs/heads/master/NoAppDownload.txt'
         type: easylist
