@@ -32,6 +32,14 @@ application:
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
         type: easylist
         
+      - name: 'anti-AD'
+        path: 'https://anti-ad.net/easylist.txt'
+        type: easylist
+        
+      - name: 'DD-AD'
+        path: 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt'
+        type: easylist
+        
       - name: 'damengzhu'
         path: 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt'
         type: easylist
@@ -42,6 +50,10 @@ application:
         
       - name: 'NoAppDownload'
         path: 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/refs/heads/master/NoAppDownload.txt'
+        type: easylist
+        
+      - name: 'hululu1068-mylist'
+        path: 'https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/mylist.txt'
         type: easylist
 
     #本地规则文件
