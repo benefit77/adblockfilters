@@ -28,20 +28,12 @@ application:
         path: 'https://easylist-downloads.adblockplus.org/easylist.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
         type: easylist                       #可选参数: 规则类型：easylist (默认)、dnsmasq、clash、smartdns、hosts
 
-      - name: 'EasyList-China'
-        path: 'https://easylist-downloads.adblockplus.org/easylistchina.txt'
-        type: easylist
-
       - name: 'uniartisan'
-        path: 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt'
+        path: 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt'
         type: easylist
         
       - name: 'AWAvenue'
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
-        type: easylist
-        
-      - name: 'anti-AD'
-        path: 'https://anti-ad.net/easylist.txt'
         type: easylist
         
       - name: 'damengzhu'
