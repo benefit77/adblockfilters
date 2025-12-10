@@ -35,10 +35,6 @@ application:
       - name: 'AWAvenue'
         path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
         type: easylist
-        
-      - name: 'damengzhu'
-        path: 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt'
-        type: easylist
 
     #本地规则文件
     local:
