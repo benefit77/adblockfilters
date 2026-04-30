@@ -1,5 +1,5 @@
 # ADFS AdBlock smartdns
-# Last Modified: 2026-04-30 01:39:16
+# Last Modified: 2026-04-30 10:55:04
 # Homepage: https://github.com/benefit77/adblockfilters
 address /fpb1.kedabai.com/#
 address /ainb01040zh.com/#
@@ -6735,6 +6735,7 @@ address /47c50e31a9.com/#
 address /481516ca1d.com/#
 address /482e528949.com/#
 address /484l.com/#
+address /48727e9a60.com/#
 address /48a11e6b12.com/#
 address /48b4z7u23w7824.cfd/#
 address /48d368a6f7.com/#
@@ -7026,6 +7027,7 @@ address /73660f6efb.com/#
 address /73771m3q.xyz/#
 address /73a435bfaf.com/#
 address /73e3c9d09d.com/#
+address /73ea13c4fa.com/#
 address /73ed366d3137ec936bd60b1184467776.com/#
 address /73fbab0eb4.com/#
 address /73gpv6um94owqo1vwjc.rest/#
@@ -8341,6 +8343,7 @@ address /affpa.top/#
 address /affplanet.com/#
 address /affraybeaker.com/#
 address /affreuxtracer.cfd/#
+address /affrkyajm.in/#
 address /affroller.com/#
 address /affrontsoulsretire.com/#
 address /affstrack.com/#
@@ -9730,6 +9733,7 @@ address /asunderfacilitydealt.com/#
 address /asuzkfratdmng.space/#
 address /asvavjlpiwpa.in/#
 address /aswailwameful.qpon/#
+address /aswashfoutelatania.cyou/#
 address /asxtutrchzxpw.com/#
 address /aszsfjntyvrbg.website/#
 address /atableofcup.com/#
@@ -10420,8 +10424,10 @@ address /baroihaunchywauch.qpon/#
 address /barometercorrodingunease.com/#
 address /baronsamvat.com/#
 address /barrackmuppetunhealthy.com/#
+address /barrapisaca.com/#
 address /barrasdockage.com/#
 address /barrasjoistsukkahs.cfd/#
+address /barren-lecture.com/#
 address /barren-unit.pro/#
 address /barrenhead.pro/#
 address /barrettfusion.qpon/#
@@ -11871,6 +11877,7 @@ address /brdjoupapcilx.online/#
 address /brdjxakmufwxo.site/#
 address /brdlbkrzjudrg.online/#
 address /breachneatlylane.com/#
+address /breakaxringatu.qpon/#
 address /breakdowninsinuateeliza.com/#
 address /breakfastinvitingdetergent.com/#
 address /breakfastsinew.com/#
@@ -12503,6 +12510,7 @@ address /cabccumqxzevy.space/#
 address /cabhwq.com/#
 address /cabininestimable.com/#
 address /cabinzenith.com/#
+address /cabmengrouter.cfd/#
 address /cabnnr.com/#
 address /cabreeseen.com/#
 address /cabritoarupa.qpon/#
@@ -12746,6 +12754,7 @@ address /carpiumexopt.com/#
 address /carpuslarrups.com/#
 address /carrhwqlgga.com/#
 address /carrickbutomus.cfd/#
+address /carrickurbana.shop/#
 address /carriedamiral.com/#
 address /carriedwinlesspases.cyou/#
 address /carrset.cfd/#
@@ -13051,6 +13060,7 @@ address /centenaskidoo.cfd/#
 address /centercrock.qpon/#
 address /centeredphosphate.com/#
 address /centimetrebracketasperity.com/#
+address /centorodge.cyou/#
 address /centralnervous.net/#
 address /centricgaffkya.com/#
 address /centumshough.com/#
@@ -15287,6 +15297,7 @@ address /damp-exchange.pro/#
 address /damp-opportunity.pro/#
 address /dampedvisored.com/#
 address /dampratio.pro/#
+address /danaglacrudely.cfd/#
 address /danaidehomes.com/#
 address /danaroenstoreizumi.cfd/#
 address /danceddompt.cfd/#
@@ -15425,6 +15436,7 @@ address /dazzlingdelay.com/#
 address /dazzlingnoise.pro/#
 address /dazzlingpriority.pro/#
 address /dazzlingstrength.pro/#
+address /db045ae2e5.com/#
 address /db0a4b4eb7.com/#
 address /db41cbaf55.com/#
 address /dbaforialygmw.website/#
@@ -15877,6 +15889,7 @@ address /deterrentreseptivereseptive.com/#
 address /detestablemanifest.com/#
 address /detgiuidxprjk.online/#
 address /dethemostgracef.com/#
+address /detikpcprolans.cyou/#
 address /detour.click/#
 address /detourgumby.cyou/#
 address /detoxifylagoonsnugness.com/#
@@ -16514,6 +16527,7 @@ address /doekasweve.cyou/#
 address /dofrhyluyqtex.online/#
 address /dogcbhkupqzor.website/#
 address /dogeysphyllis.cyou/#
+address /doggerykaraism.cyou/#
 address /doggesshagar.qpon/#
 address /doggesssaftcoes.cyou/#
 address /doghalf.com/#
@@ -16843,6 +16857,7 @@ address /drugstoredemuretake.com/#
 address /drumsitoldfashioned.com/#
 address /drunkarddignifyheather.com/#
 address /drunkardlukecoverage.com/#
+address /drusescheneau.cfd/#
 address /drusetrusts.shop/#
 address /drutsylaylzqx.site/#
 address /drwfkzlumcyob.space/#
@@ -17017,6 +17032,7 @@ address /dust-0001.delorazahnow.workers.dev/#
 address /dustexhibition.com/#
 address /dustinga.com/#
 address /dustmenbuilder.cyou/#
+address /dustourtollage.qpon/#
 address /dustyrender.com/#
 address /dutchrelay.com/#
 address /dutiful-mud.pro/#
@@ -17063,6 +17079,7 @@ address /dwdy7xir.xyz/#
 address /dweeyiquoarvs.site/#
 address /dwetwdstom1020.com/#
 address /dwfdxnwjakfjm.space/#
+address /dwflepmky.com/#
 address /dwhoisquitehappy.com/#
 address /dwibdrtzozsuz.space/#
 address /dwightcherrykings.com/#
@@ -17323,6 +17340,7 @@ address /ebetoni.com/#
 address /ebfclhdkkmeav.store/#
 address /ebfikkllokqea.online/#
 address /ebftaryatw.com/#
+address /ebh982icrrnxrjj3l.cfd/#
 address /ebjzywqbpkbbi.online/#
 address /ebkohojtqxwpc.online/#
 address /eblastengine.com/#
@@ -18194,6 +18212,7 @@ address /epirotdisrooffrsiket.cfd/#
 address /episodemautherflirt.cyou/#
 address /epistleleucoma.shop/#
 address /epitelanewnessagunah.cfd/#
+address /epithemunreinhacking.qpon/#
 address /epito.xyz/#
 address /epizoaltapirs.cyou/#
 address /epjlfziryrpkg.site/#
@@ -18787,6 +18806,7 @@ address /extensionworthwhile.com/#
 address /extensivetravelled.com/#
 address /extenuatemusketsector.com/#
 address /exterminatordesperate.com/#
+address /extinecockupsmatawan.cyou/#
 address /extinguishbethpasta.com/#
 address /extinguishsufferingsalty.com/#
 address /extolfatted.cyou/#
@@ -19517,6 +19537,7 @@ address /filthygracefulspinach.com/#
 address /filthyrankscuffle.com/#
 address /filweixnycglr.space/#
 address /fimserve.com/#
+address /fimwawolgc.in/#
 address /fin.ovh/#
 address /finaglecoater.qpon/#
 address /financialfadinglobster.com/#
@@ -19694,6 +19715,7 @@ address /flapsoonerpester.com/#
 address /flarby.com/#
 address /flaredishwater.com/#
 address /flashb.id/#
+address /flashedfishmen.shop/#
 address /flashingicicleset.com/#
 address /flashnetic.com/#
 address /flashy-count.pro/#
@@ -21120,6 +21142,7 @@ address /ghabovethecityon.com/#
 address /gharrislapillo.cyou/#
 address /ghautspuckish.cyou/#
 address /ghawbdktdopmt.online/#
+address /ghbornoosers.cfd/#
 address /ghdvmofvjgnhr.store/#
 address /ghdwowvotygjw.website/#
 address /ghdwwblzculhq.site/#
@@ -22752,7 +22775,9 @@ address /heleric.com/#
 address /helesandoral.com/#
 address /helib.xyz/#
 address /helicient.com/#
+address /heliconthrap.qpon/#
 address /helltraffic.com/#
+address /helmssiestas.qpon/#
 address /helmsuction.com/#
 address /heloepunditsskyhook.cfd/#
 address /helpertesthome.com/#
@@ -22835,6 +22860,7 @@ address /hfbhbzlflpuiz.site/#
 address /hfcqcubumdrpp.website/#
 address /hfdqmmjkagyps.site/#
 address /hfdrgnarmwzsy.space/#
+address /hfdrqetkq.com/#
 address /hfeoeekkncvic.store/#
 address /hffqzfvfvtfup.site/#
 address /hffxc.com/#
@@ -22929,6 +22955,7 @@ address /hidecatastropheappend.com/#
 address /hideousnumber.com/#
 address /hideseducts.shop/#
 address /hidewnpdtbou.com/#
+address /hidingallelic.cfd/#
 address /hidlessonana.com/#
 address /hidlinsboart.com/#
 address /hidqxldlujo.com/#
@@ -23122,6 +23149,7 @@ address /hlufsqadxupgr.website/#
 address /hlumreexivler.space/#
 address /hlxyidqacaivu.site/#
 address /hlzz3qt35ko683.rest/#
+address /hm5kvflwlh3kcwy6zoro.rest/#
 address /hmacucmc.in/#
 address /hmbcfccmdpcmg.space/#
 address /hmbvkkjirtya.com/#
@@ -23461,6 +23489,7 @@ address /hrawfoyklhfmg.website/#
 address /hrawjuqbmowws.online/#
 address /hrbaal0z.xyz/#
 address /hrcswcfxhqdff.website/#
+address /hrfokuusjun.com/#
 address /hrfsmniaflbbg.website/#
 address /hridjrvfzh.com/#
 address /hrient.xyz/#
@@ -23468,6 +23497,7 @@ address /hrihqgbkuarzq.online/#
 address /hrknqbbxmyvyo.site/#
 address /hrllzdgzyzoiy.website/#
 address /hrmiruedsaawv.com/#
+address /hrmruv1z7wyr8cpppfbjyc4n.cfd/#
 address /hrogrpee.de/#
 address /hroxzeacto.in/#
 address /hrpbmvgbihfac.site/#
@@ -23628,6 +23658,7 @@ address /hunterheroiccompassion.com/#
 address /hunterlead.com/#
 address /hupxbntreuoieemcubt.cfd/#
 address /hupysrriepvxy.online/#
+address /hurdisbirma.shop/#
 address /hurkarubypaths.com/#
 address /hurlerlutists.qpon/#
 address /hurlmedia.design/#
@@ -23787,6 +23818,7 @@ address /hytxg2.com/#
 address /hyvirttguqnwt.online/#
 address /hyvmmxgohrnpc.site/#
 address /hywwxqhxtoxxb.com/#
+address /hyy3libp3vyl7bcv44nn7uj48yx8vp4cl.rest/#
 address /hyzhqaxwutcgb.online/#
 address /hz4lrpj1r4mw8p32.cfd/#
 address /hzboheifztyoj.space/#
@@ -23890,6 +23922,7 @@ address /ibtguchky.com/#
 address /ibvfzddfxqwqg.love/#
 address /ibvrruekneixz.site/#
 address /ibvytcspbrnhw.site/#
+address /ibxsehlu.com/#
 address /ibyhdkkcdkkii.site/#
 address /ibyossxwwjeij.website/#
 address /icasmtolanesairbag.cyou/#
@@ -24342,6 +24375,7 @@ address /immuneileusempt.cyou/#
 address /immunitydisaster.com/#
 address /imogentoxifer.cfd/#
 address /imokokfvmeygj.site/#
+address /imoxilwuuhhx.com/#
 address /imp2aff.com/#
 address /impact-betegy.com/#
 address /impactify.media/#
@@ -25420,6 +25454,7 @@ address /jarsneakymoisture.com/#
 address /jarvispopsu.com/#
 address /jaskhuczzexoh.site/#
 address /jassidgrummer.shop/#
+address /jatipeals.cyou/#
 address /jauntieerrant.qpon/#
 address /jaunty-leadership.com/#
 address /jauntyit.com/#
@@ -26675,6 +26710,7 @@ address /khjpcjdg.com/#
 address /khlhqwlnesbbm.space/#
 address /khoangsp.in/#
 address /khocclzjcykbk.site/#
+address /khojaaulicalhena.cfd/#
 address /khovdiminated.org/#
 address /khowarrainycapsid.cyou/#
 address /khqjazypcaqmk.space/#
@@ -26977,6 +27013,7 @@ address /knownwarn.com/#
 address /knowpillardrug.com/#
 address /knphmeiypdwcu.space/#
 address /knpocsexswplq.space/#
+address /knrhwhkxytfiu.com/#
 address /knsoknmyvyhab.website/#
 address /knucklemonthsedifice.com/#
 address /knudsengrillee.cyou/#
@@ -27758,6 +27795,7 @@ address /lecythilathen.qpon/#
 address /ledginghoisedpatch.cyou/#
 address /leefmanoseuxine.cyou/#
 address /leefulachiote.qpon/#
+address /leegtediplois.shop/#
 address /leentjdotzcmu.site/#
 address /leeriergrf.com/#
 address /leeringarcuatejimjams.cyou/#
@@ -28275,6 +28313,7 @@ address /llboqelaevqjy.top/#
 address /lldmuevvzmefo.space/#
 address /lldsnrhnacgbx.com/#
 address /lleana.com/#
+address /lleubiffs.shop/#
 address /llfpaondsunun.site/#
 address /llfyjvskyxnsv.site/#
 address /llgkzsbqwtdwz.online/#
@@ -28786,6 +28825,7 @@ address /luoqdtopebadx.store/#
 address /lupulinhauterayonny.cyou/#
 address /lupulinrushlit.shop/#
 address /luqludlzet.in/#
+address /luqoyapq.com/#
 address /luqtazaqdcgyo.online/#
 address /luralmicks.com/#
 address /lurebravery.shop/#
@@ -28977,6 +29017,7 @@ address /m2track.co/#
 address /m32.media/#
 address /m7335jcihomqpcprhxkqnhhx.rest/#
 address /m7lq9c8tpx8e91zy.rest/#
+address /m87c8g59lphbouq3m4jyj.cfd/#
 address /m8ix4fqk.xyz/#
 address /m9n6nht2evwh6h.cfd/#
 address /ma3ion.com/#
@@ -29153,6 +29194,7 @@ address /manasicbungey.qpon/#
 address /manateeacyloin.com/#
 address /manbriaunneathbrashes.cyou/#
 address /manconsider.com/#
+address /mandantkettlerroomth.cfd/#
 address /mandatorypainter.com/#
 address /mandlenkischen.cyou/#
 address /mandrelkluckerbeisa.cyou/#
@@ -29400,6 +29442,7 @@ address /mbsspads.com/#
 address /mbtomivrjusop.website/#
 address /mbuwqbnfq.com/#
 address /mbuxtemzhbxnt.space/#
+address /mbvftujohrauu.com/#
 address /mbvlmx.com/#
 address /mbvlmz.com/#
 address /mbvndisplay.site/#
@@ -29449,6 +29492,7 @@ address /mdocqwipifyhu.buzz/#
 address /mdoomngnidelo.store/#
 address /mdroadmmbxrlj.space/#
 address /mdrwjsijuqvtn.rocks/#
+address /mdvovqpiuabzar.com/#
 address /mdvroljwxdbqe.website/#
 address /mdwhgiehfrznp.space/#
 address /mdwzdvbjkixim.site/#
@@ -29544,6 +29588,7 @@ address /mehnthakutyfore.org/#
 address /meibjonjgxjqb.store/#
 address /meiosescambia.cyou/#
 address /mejlwlzjcbkjn.space/#
+address /mekongvizzy.cyou/#
 address /melancholylucidity.com/#
 address /melanicsellgangava.qpon/#
 address /melgeminid.cfd/#
@@ -32680,6 +32725,7 @@ address /ogscumkte.com/#
 address /ogsdmamkeamq.in/#
 address /ogtsesfvshtsk.website/#
 address /oguaumtdjyqoe.online/#
+address /ogvolbnizk.in/#
 address /ogvozjawb.in/#
 address /ogxgulqi.in/#
 address /ogypquywenfmq.site/#
@@ -32824,6 +32870,7 @@ address /olderidentify.com/#
 address /olderouncedownstairs.com/#
 address /oldersinner.com/#
 address /oldestpanton.qpon/#
+address /oldfashionedperiod.pro/#
 address /oldfashionedstructure.pro/#
 address /oldroll.pro/#
 address /olebcnoveqtgn.site/#
@@ -33858,6 +33905,7 @@ address /ozyxnwnpfdiup.website/#
 address /p12acx.com/#
 address /p182qlx5wmkp5k3x1cb8.cfd/#
 address /p1fzqmnk5fh1xnv7rhfg1.cfd/#
+address /p1ib56kf957zj3b6qqnm.rest/#
 address /p1orhwly77mm7772tiufby.cfd/#
 address /p243xhjej2wycgfi458h89.cyou/#
 address /p269vhygzowkotz4.cfd/#
@@ -38001,6 +38049,7 @@ address /qhrgkzpfvrtzm.online/#
 address /qhsebegxeicom.online/#
 address /qhupphmzchsdo.space/#
 address /qhurchaisrea.org/#
+address /qhuwwuaqkni.in/#
 address /qhwpsevwlgqnm.com/#
 address /qhwslvhivllkp.online/#
 address /qhwxkopseffxyg.com/#
@@ -38119,6 +38168,8 @@ address /qksrv.cc/#
 address /qksrv.net/#
 address /qksyzbngksiwtj.com/#
 address /qksz.net/#
+address /qktctwihtr.com/#
+address /qktwjmrs.com/#
 address /qkuddzkexfiez.site/#
 address /qkuwfhstvjagy.com/#
 address /qkvfnjfhdparr.store/#
@@ -38563,6 +38614,7 @@ address /quasseskeepnet.qpon/#
 address /quatchfausterdormant.qpon/#
 address /quatuorkebob.help/#
 address /quaukruffed.com/#
+address /quavershelp.cfd/#
 address /quaybeware.com/#
 address /qubakqrsnvr.com/#
 address /qubbitkwznett.space/#
@@ -39990,6 +40042,7 @@ address /resalegams.cfd/#
 address /resaltcove.qpon/#
 address /resaltsolvent.qpon/#
 address /resavecoterie.cyou/#
+address /resawnseized.cyou/#
 address /resawstawtie.cyou/#
 address /rescousmatzah.cfd/#
 address /rescrubdecenyl.com/#
@@ -40928,6 +40981,7 @@ address /rollingsalt.com/#
 address /rollserver.xyz/#
 address /rolltrk9.com/#
 address /rolqpuwq.com/#
+address /romakpmpxiobxaf.com/#
 address /romalconvexo.cfd/#
 address /romance-datepark.com/#
 address /romance-net.com/#
@@ -40961,6 +41015,7 @@ address /rondestivalnutrice.cyou/#
 address /ronfxlrttuldy.website/#
 address /ronionmatral.qpon/#
 address /ronniunnoted.com/#
+address /ronracepub.com/#
 address /roobetaffiliates.com/#
 address /roodlesnoblify.help/#
 address /rooftopalate.qpon/#
@@ -41268,6 +41323,7 @@ address /rsgumgvzqwnce.online/#
 address /rshbyuhmdtwfp.space/#
 address /rshmauyblkmymau.net/#
 address /rsibvqcpsgzyo.com/#
+address /rsifcxsbfuwxgo.com/#
 address /rsihudniulpvr.online/#
 address /rsityexcellojapanelm.org/#
 address /rskcwqsud.com/#
@@ -41992,6 +42048,7 @@ address /samhainbewend.com/#
 address /samktxppegfqo.website/#
 address /sammyjism.cyou/#
 address /sampexect.cfd/#
+address /sampicooping.cfd/#
 address /samplestupent.qpon/#
 address /samreshuu.online/#
 address /samsairtoula.net/#
@@ -42438,6 +42495,7 @@ address /screamsrerigvawntie.qpon/#
 address /screedlocket.help/#
 address /screekshriek.cfd/#
 address /screenhurtfuldelicatessen.com/#
+address /scrikerepry.cfd/#
 address /scrimpylagune.cyou/#
 address /scringeeloge.com/#
 address /scripasok.com/#
@@ -42723,6 +42781,7 @@ address /selectiondeceivingthreatened.com/#
 address /selectr.net/#
 address /selecttopoff.com/#
 address /selenepaolo.cfd/#
+address /selfassured-celebration.com/#
 address /selfassured-pair.pro/#
 address /selfcontrolextraordinary.com/#
 address /selfemployedstrugglebidding.com/#
@@ -43868,6 +43927,7 @@ address /slcuse.com/#
 address /sldsmuisty.shop/#
 address /sleavedyecch.cyou/#
 address /sledconveniencestuff.com/#
+address /sleddedverity.qpon/#
 address /sleddertrush.cyou/#
 address /sledfoolinfo.com/#
 address /sledgerspode.qpon/#
@@ -44786,6 +44846,7 @@ address /splendldates.net/#
 address /splendlddates.com/#
 address /splendlddates.net/#
 address /splicelegistslast.cfd/#
+address /splitscavallycolza.qpon/#
 address /splittingpick.com/#
 address /spllfsxyoquda.click/#
 address /splmgstlkhchp.space/#
@@ -45305,6 +45366,7 @@ address /stereotypeswig.com/#
 address /stererypeckstashed.cfd/#
 address /stereumakvavitmowable.cfd/#
 address /steriacuter.qpon/#
+address /sterigobonee.shop/#
 address /sternedboheas.help/#
 address /sternlyloammi.cfd/#
 address /steroidbazaarbalance.com/#
@@ -45692,6 +45754,7 @@ address /submissivejuice.com/#
 address /submissivemate.pro/#
 address /submissrequins.cfd/#
 address /subnudeduress.cfd/#
+address /subornpohnachronal.qpon/#
 address /subparsephiraconches.cfd/#
 address /subpasshippian.qpon/#
 address /subsalefurrowy.qpon/#
@@ -45986,6 +46049,7 @@ address /surviewoath.qpon/#
 address /survivalgiddinessground.com/#
 address /survivetumult.com/#
 address /susannefine.cyou/#
+address /susciteupstood.cyou/#
 address /susianulidia.com/#
 address /suspectedknives.com/#
 address /suspectinventory.com/#
@@ -46997,6 +47061,7 @@ address /tensehatrail.cfd/#
 address /tenserkona.qpon/#
 address /tenserrelents.com/#
 address /tensesurround.pro/#
+address /tensingequateddories.qpon/#
 address /tensionbabble.com/#
 address /tensojobe.qpon/#
 address /tensuao.club/#
@@ -48953,6 +49018,7 @@ address /turbulentconformityhomes.com/#
 address /turbulentobject.com/#
 address /turbulentoriginally.com/#
 address /turfamusing.com/#
+address /turfcrowner.cfd/#
 address /turfedmarah.qpon/#
 address /turfingserb.com/#
 address /turfitecansful.com/#
@@ -51363,6 +51429,7 @@ address /vannicflench.cfd/#
 address /vanqacxuzqpy.com/#
 address /vanquishnorthern.com/#
 address /vansaushashy.net/#
+address /vanwardjincan.cfd/#
 address /vaokbuyvpiyzw.website/#
 address /vapedia.com/#
 address /vapidaedine.cyou/#
@@ -52896,6 +52963,7 @@ address /vxqpuuzamduiw.space/#
 address /vxrfmtxqrdubg.site/#
 address /vxrpfyuafznyc.online/#
 address /vxsdibhjeyvwf.space/#
+address /vxsrroddtnqx.com/#
 address /vxsvnlwlahnot.space/#
 address /vxsyrwwklzcuc.website/#
 address /vxt6i1oobprhtq.cfd/#
