@@ -25,13 +25,9 @@ adfs:
       dialect: ubo  # Adblock 方言：core（默认）、abp、adguard、ubo。
       
     - name: 'AWAvenue'               #可选参数: 规则名称，如无将使用 path 作为名称
-      path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash-Classical.yaml' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
-      type: mihomo
+      path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #必要参数: 规则url，仅支持 http/https，不限定响应内容格式
+      type: adblock
       dialect: ubo  # Adblock 方言：core（默认）、abp、adguard、ubo。
-
-    - name: local-hosts
-      path: inputs/hosts.txt
-      type: hosts
 
   # 所有输出使用全部输入源；同一格式可输出多个文件，但路径不得重复或冲突。
   # name 为输出目录内的相对文件路径；type 必填。
